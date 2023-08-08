@@ -44,14 +44,6 @@ export default function TabLayout() {
           tabBarIcon: ({ color, size }) => <PiggyBank size={size} color={color} />,
         }}
       />
-       <Tabs.Screen
-        name="Budget"
-        options={{
-          headerShown: false,
-          title: 'Budget',
-          tabBarIcon: ({ color, size }) => <PiggyBank size={size} color={"red"} />,
-        }}
-      />
     </Tabs>
   );
 }

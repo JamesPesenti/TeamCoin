@@ -15,11 +15,11 @@ export default function TabLayout() {
         tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
       }}>
       <Tabs.Screen
-        name="Home"
+        name="index"
         options={{
-          title: 'Home',
+          title: 'home',
           headerShown: false,
-          tabBarIcon: ({ color }) => <FontAwesome name="home" color={color} />,
+          tabBarIcon: ({ color }) => <FontAwesome name="code" color={color} />,
           headerRight: () => (
             <Link href="/modal" asChild>
               <Pressable>
@@ -42,14 +42,6 @@ export default function TabLayout() {
           headerShown: false,
           title: 'Savings',
           tabBarIcon: ({ color, size }) => <PiggyBank size={size} color={color} />,
-        }}
-      />
-       <Tabs.Screen
-        name="Budget"
-        options={{
-          headerShown: false,
-          title: 'Budget',
-          tabBarIcon: ({ color, size }) => <PiggyBank size={size} color={"red"} />,
         }}
       />
     </Tabs>

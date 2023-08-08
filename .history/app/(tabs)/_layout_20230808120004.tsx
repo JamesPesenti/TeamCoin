@@ -19,7 +19,7 @@ export default function TabLayout() {
         options={{
           title: 'Home',
           headerShown: false,
-          tabBarIcon: ({ color }) => <FontAwesome name="home" color={color} />,
+          tabBarIcon: ({ color }) => <FontAwesome name="code" color={color} />,
           headerRight: () => (
             <Link href="/modal" asChild>
               <Pressable>
@@ -42,14 +42,6 @@ export default function TabLayout() {
           headerShown: false,
           title: 'Savings',
           tabBarIcon: ({ color, size }) => <PiggyBank size={size} color={color} />,
-        }}
-      />
-       <Tabs.Screen
-        name="Budget"
-        options={{
-          headerShown: false,
-          title: 'Budget',
-          tabBarIcon: ({ color, size }) => <PiggyBank size={size} color={"red"} />,
         }}
       />
     </Tabs>
