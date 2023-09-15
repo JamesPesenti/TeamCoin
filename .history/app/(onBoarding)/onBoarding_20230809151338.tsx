@@ -1,0 +1,26 @@
+import { StyleSheet, Text, View, Pressable } from 'react-native'
+import { Link } from "expo-router"
+import React from 'react'
+
+const onBoarding = () => {
+  return (
+    <>
+      <View style={styles.container}>
+        
+         <Link href="(tabs)">
+          <Pressable>
+            <Text style={{fontSize: 20}}>Go to Home</Text>
+          </Pressable>
+         </Link>
+      </View>
+    </>
+  )
+}
+
+export default onBoarding
+
+const styles = StyleSheet.create({
+  container: {
+    paddingTop: 40
+  }
+})

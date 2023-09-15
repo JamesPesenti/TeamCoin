@@ -1,0 +1,47 @@
+[
+   {
+      "id": "0",
+      "type": "% of August income spent",
+      "amount": "25%",
+      "progress": .25,
+      "goalAmount": "20%",
+      "strokeColor": "#6cdf94"
+   },
+   {
+      "id": "1",
+      "type": "Car loan paid",
+      "amount": "$5,347",
+      "progress": .64,
+      "goalAmount": "$15,099",
+      "strokeColor": "#5368b7"
+   },
+   {
+      "id": "2",
+      "type": "Mortage balance paid",
+      "amount": "$65,000",
+      "progress": .44,
+      "goalAmount": "$120,000",
+      "strokeColor": "#b75353"
+   },
+   {
+      "id": "3",
+      "type": "idea",
+      "progress": .1,
+      "goalAmount": "3,000",
+      "strokeColor": "#6ec46f"
+   },
+   {
+      "id": "4",
+      "type": "idea 2",
+      "progress": "100",
+      "goalAmount": "35,000",
+      "strokeColor": "#6ec46f"
+   },
+   {
+      "id": "5",
+      "name": "Didea 3",
+      "progress": "25,000",
+      "goalAmount": "100,000",
+      "strokeColor": "#6ec46f"
+   }
+]

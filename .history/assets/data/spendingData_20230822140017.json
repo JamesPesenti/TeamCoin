@@ -1,0 +1,56 @@
+[
+   {
+      "id": "0",
+      "category": "Home",
+      "color": "#6cdf94",
+      "value": 90
+   },
+   {
+      "id": "1",
+      "category": "Food & Dining",
+      "color": "#5368b7",
+      "value": 10
+   },
+   {
+      "id": "2",
+      "category": "Travel",
+      "color": "#b75353",
+      "value": 10
+   },
+   {
+      "id": "3",
+      "category": "Bills & Utilities",
+      "color": "#6ec46f",
+      "value": 10
+   },
+   {
+      "id": "4",
+      "category": "Shopping",
+      "color": "#6ec46f",
+      "value": 10
+   },
+   {
+      "id": "5",
+      "category": "Car & Transportation",
+      "color": "#6ec46f",
+      "value": 15
+   },
+   {
+      "id": "6",
+      "category": "Personal Care",
+      "color": "#6ec46f",
+      "value": 10
+   },
+   {
+      "id": "6",
+      "category": "Health & Fitness",
+      "color": "#5733ff",
+      "value": 20
+   },
+   {
+      "id": "5",
+      "category": "Fees & Charges",
+      "color": "#6ec46f",
+      "value": 10
+   }
+]

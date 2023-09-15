@@ -1,0 +1,32 @@
+[
+   {
+      "id": "0",
+      "name": "Dinner",
+      "progress": "300"
+   },
+   {
+      "id": "1",
+      "name": "Emergency Fund",
+      "progress": "5,000"
+   },
+   {
+      "id": "2",
+      "name": "Vacation",
+      "progress": "5,000"
+   },
+   {
+      "id": "3",
+      "name": "Car Repairs",
+      "progress": "3,000"
+   },
+   {
+      "id": "4",
+      "name": "Wedding",
+      "progress": "35,000"
+   },
+   {
+      "id": "5",
+      "name": "Down Payment",
+      "progress": "150,000"
+   }
+]

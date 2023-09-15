@@ -1,0 +1,38 @@
+[
+   {
+      "id": "0",
+      "type": "% of monthly income spent",
+      "progress": "150",
+      "goalAmount": "300"
+   },
+   {
+      "id": "1",
+      "type": "Car loan balance",
+      "progress": "1,200",
+      "goalAmount": "5,000"
+   },
+   {
+      "id": "2",
+      "type": "Mortage balance left",
+      "progress": "$4,000 paid off",
+      "goalAmount": "$12,000"
+   },
+   {
+      "id": "3",
+      "type": "idea",
+      "progress": "200",
+      "goalAmount": "3,000"
+   },
+   {
+      "id": "4",
+      "type": "idea 2",
+      "progress": "100",
+      "goalAmount": "35,000"
+   },
+   {
+      "id": "5",
+      "name": "Didea 3",
+      "progress": "25,000",
+      "goalAmount": "100,000"
+   }
+]

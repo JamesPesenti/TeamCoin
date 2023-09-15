@@ -1,0 +1,31 @@
+[
+   {
+      "id": "0",
+      "name": "Dinner",
+      "progress": {
+         "id": "0",
+         "current": "81,500",
+         "full": "100,000"
+      }
+   },
+   {
+      "id": "1",
+      "name": "Emergency Fund"
+   },
+   {
+      "id": "2",
+      "name": "Vacation"
+   },
+   {
+      "id": "3",
+      "name": "Car Repairs"
+   },
+   {
+      "id": "4",
+      "name": "Wedding"
+   },
+   {
+      "id": "5",
+      "name": "Down Payment"
+   }
+]
